@@ -1,0 +1,13 @@
+{
+  "nombre": "Juan",
+  "apellido": "Torres",
+  "email": "rubiolo@gmail.com",
+  "sexo": "Male",
+  "telefono": "3564527578",
+  "fechaNacimiento": ["December", "2001", "29"],
+  "hobbies": ["Sports","Music"],
+  "imagen": "my-image.png",
+  "direccion": "Alguna ciudad",
+  "estado": "NCR",
+  "ciudad": "San Francisco"
+}

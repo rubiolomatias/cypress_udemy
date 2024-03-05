@@ -1,0 +1,11 @@
+{
+    "defaultCommandTimeout": 4000,
+    "env": {
+      "url": "https://demo.opencart.com"
+    },
+    "retries": {
+      "runMode": 1,
+      "openMode":1
+    },
+    "projectId": "m8cvt5"
+  }

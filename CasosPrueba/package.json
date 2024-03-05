@@ -1,0 +1,16 @@
+{
+  "name": "casosprueba",
+  "version": "1.0.0",
+  "description": "casosprueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules//.bin//cypress run",
+    "testChrome": "npm, run test -- --browser --headless",
+    "testDashboardChromeHeadless": "npm run test -- --record --ke ebb01e5b-65ce-478b-a1f9-3f0b4dc26e63 --browser chrome --headless"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.3"
+  }
+}
